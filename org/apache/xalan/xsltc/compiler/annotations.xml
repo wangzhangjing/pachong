@@ -1,0 +1,7 @@
+<root>
+    <item name='org.apache.xalan.xsltc.compiler.Expression org.apache.bcel.generic.InstructionList compile(org.apache.xalan.xsltc.compiler.util.ClassGenerator, org.apache.xalan.xsltc.compiler.util.MethodGenerator)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_,_-&gt;new&quot;"/>
+        </annotation>
+    </item>
+</root>

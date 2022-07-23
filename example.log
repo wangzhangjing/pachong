@@ -1,0 +1,5 @@
+DEBUG main org.apache.http.wire - http-outgoing-1 << "0[\r][\n]"
+DEBUG main org.apache.http.wire - http-outgoing-1 << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection [id: 1][route: {s}->https://passport.baidu.com:443] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-1: set socket timeout to 0
+DEBUG main org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection released: [id: 1][route: {s}->https://passport.baidu.com:443][total kept alive: 2; route allocated: 1 of 2; total allocated: 2 of 20]

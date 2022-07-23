@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c92c4b92-e8fd-42da-be5c-39f95ff18867" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="214Kc6CfA6IddpeaqEDX1kmplPy" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="pachong" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Gugezpsj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16308594" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ymtccs" />
+      <recent name="s" />
+      <recent name="hduwqdo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\SparkProject\pachong\src\main\java\hduwqdo" />
+      <recent name="D:\workspace\SparkProject\pachong\src\main\java\xiaochongzhi" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hduwqdo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.gugeiffp">
+    <configuration name="dfw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hduwqdo.dfw" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hduwqdo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="dz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hduwqdo.dz" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hduwqdo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="gugeiffp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaochongzhi.gugeiffp" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myframe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ymtccs.myframe" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ymtccs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="sefewf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ymtccs.sefewf" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ymtccs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="text1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="s.text1" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="s.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.gugeiffp" />
+      <item itemvalue="应用程序.dfw" />
+      <item itemvalue="应用程序.dz" />
+      <item itemvalue="应用程序.myframe" />
+      <item itemvalue="应用程序.sefewf" />
+      <item itemvalue="应用程序.text1" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92c4b92-e8fd-42da-be5c-39f95ff18867" name="Default Changelist" comment="" />
+      <created>1637194995391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637194995391</updated>
+      <workItem from="1637194997818" duration="406000" />
+      <workItem from="1637195494913" duration="10437000" />
+      <workItem from="1637209274421" duration="9389000" />
+      <workItem from="1637228976260" duration="3251000" />
+      <workItem from="1637288147059" duration="1614000" />
+      <workItem from="1637289983963" duration="2168000" />
+      <workItem from="1637299499314" duration="549000" />
+      <workItem from="1637300776432" duration="1048000" />
+      <workItem from="1637302637996" duration="9876000" />
+      <workItem from="1637320947049" duration="7284000" />
+      <workItem from="1637329075159" duration="888000" />
+      <workItem from="1637330034790" duration="164000" />
+      <workItem from="1637372058393" duration="26358000" />
+      <workItem from="1637405099461" duration="9207000" />
+      <workItem from="1637460181013" duration="5360000" />
+      <workItem from="1637482452978" duration="8481000" />
+      <workItem from="1637541561232" duration="11294000" />
+      <workItem from="1637555474577" duration="13725000" />
+      <workItem from="1637627531809" duration="5225000" />
+      <workItem from="1637637892943" duration="1205000" />
+      <workItem from="1637664347966" duration="2792000" />
+      <workItem from="1637713136917" duration="3009000" />
+      <workItem from="1637802979878" duration="6415000" />
+      <workItem from="1637896552747" duration="594000" />
+      <workItem from="1638145505920" duration="23000" />
+      <workItem from="1638145659554" duration="1473000" />
+      <workItem from="1638185473117" duration="170000" />
+      <workItem from="1648469960784" duration="2879000" />
+      <workItem from="1648553319732" duration="3631000" />
+      <workItem from="1648558731294" duration="3626000" />
+      <workItem from="1648641096537" duration="536000" />
+      <workItem from="1648724609850" duration="1431000" />
+      <workItem from="1648815147193" duration="2084000" />
+      <workItem from="1648992142118" duration="70000" />
+      <workItem from="1648992237689" duration="680000" />
+      <workItem from="1648993073928" duration="925000" />
+      <workItem from="1649070759686" duration="61000" />
+      <workItem from="1649501109417" duration="5319000" />
+      <workItem from="1649511346991" duration="842000" />
+      <workItem from="1649518603202" duration="679000" />
+      <workItem from="1649553603870" duration="318000" />
+      <workItem from="1649554393032" duration="3727000" />
+      <workItem from="1649559210258" duration="92000" />
+      <workItem from="1649593017617" duration="3990000" />
+      <workItem from="1649676244631" duration="9025000" />
+      <workItem from="1649761152278" duration="4394000" />
+      <workItem from="1649769684584" duration="1683000" />
+      <workItem from="1649854924855" duration="28000" />
+      <workItem from="1649855074521" duration="279000" />
+      <workItem from="1650196391978" duration="37000" />
+      <workItem from="1653613875832" duration="921000" />
+      <workItem from="1653614946710" duration="17000" />
+      <workItem from="1653614975845" duration="151000" />
+      <workItem from="1654602109972" duration="2298000" />
+      <workItem from="1654845333127" duration="66000" />
+      <workItem from="1657277615507" duration="1906000" />
+      <workItem from="1658115664863" duration="784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/four.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/six.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ymtccs/fad.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/ghqqt.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/scsh.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/scsh.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/scsh.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/scsh.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dz.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dz.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dz.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/Gugecrawl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/Gugecrawl.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ymtccs/窗口.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dfw.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dfw.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dz.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dz.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dz.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hduwqdo/dz.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((Response)resp).url" custom="org.jsoup.helper.HttpConnection.Response" />
+        <watch expression="((Response)resp).url.protocol" language="JAVA" />
+        <watch expression="document" />
+        <watch expression="document" language="JAVA" />
+        <watch expression="document" language="JAVA" />
+        <watch expression="document" language="JAVA" />
+        <watch expression="document" language="JAVA" />
+        <watch expression="document.outputSettings.charset" />
+        <watch expression="element" />
+        <watch expression="element" />
+        <watch expression="element" />
+        <watch expression="element" />
+        <watch expression="element" />
+        <watch expression="a" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
